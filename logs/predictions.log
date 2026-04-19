@@ -1,0 +1,323 @@
+2026-04-08 17:50:55,969 - INFO - [PREDICTION] label=FAKE | text=Breaking news Aliens landed in Morocco yesterday...
+2026-04-08 17:50:55,969 - INFO - [TIMER] predict \u2192 0.0013s
+2026-04-08 17:51:04,439 - INFO - [PREDICTION] label=FAKE | text=Breaking news Aliens landed in Morocco yesterday...
+2026-04-08 17:51:04,440 - INFO - [TIMER] predict \u2192 0.0066s
+2026-04-08 17:51:05,608 - INFO - [PREDICTION] label=FAKE | text=Breaking news Aliens landed in Morocco yesterday...
+2026-04-08 17:51:05,608 - INFO - [TIMER] predict \u2192 0.0s
+2026-04-08 17:52:09,434 - INFO - [PREDICTION] label=FAKE | text=News Iran had agreed to allow vessels through the key oil sh...
+2026-04-08 17:52:09,463 - INFO - [TIMER] predict \u2192 0.0285s
+2026-04-08 22:36:33,695 - INFO - [PREDICTION] label=FAKE | text=Qu'est-ce qu'un article scientifique ? Demandez à un·e exper...
+2026-04-08 22:36:33,711 - INFO - [TIMER] predict \u2192 0.1749s
+2026-04-08 22:37:18,078 - INFO - [PREDICTION] label=FAKE | text=No title found \ufffd)'"n\ufffdm1s\ufffd\ufffd\ufffd\ufffdwH\ufffd\ufffd:\ufffdO\ufffd\ufffd\ufffd\ufffdv[|C3\ufffd\ufffd\ufffd\ufffdy|S\ufffd;\u0343N...
+2026-04-08 22:37:18,078 - INFO - [TIMER] predict \u2192 1.5413s
+2026-04-08 22:37:33,648 - INFO - [PREDICTION] label=FAKE | text=Rédiger et publier un article scientifique À la fin de ce co...
+2026-04-08 22:37:33,649 - INFO - [TIMER] predict \u2192 0.006s
+2026-04-08 22:37:47,900 - INFO - [PREDICTION] label=FAKE | text=Revues scientifiques en accès libre International Scientific...
+2026-04-08 22:37:47,900 - INFO - [TIMER] predict \u2192 0.0s
+2026-04-08 22:38:02,378 - INFO - [PREDICTION] label=FAKE | text=No title found ...
+2026-04-08 22:38:02,378 - INFO - [TIMER] predict \u2192 0.0s
+2026-04-08 22:38:47,065 - INFO - [PREDICTION] label=FAKE | text=Article de presse Pour les articles homonymes, voirArticleet...
+2026-04-08 22:38:47,065 - INFO - [TIMER] predict \u2192 0.0101s
+2026-04-08 22:39:17,545 - INFO - [PREDICTION] label=FAKE | text=hhhhhh ggggggggggggggggggggggggggggggggggggggggggggg...
+2026-04-08 22:39:17,545 - INFO - [TIMER] predict \u2192 0.0116s
+2026-04-08 22:39:28,140 - INFO - [PREDICTION] label=FAKE | text=oumaima ggggggggggggggggggggggggggggggggggggggggggggg...
+2026-04-08 22:39:28,141 - INFO - [TIMER] predict \u2192 0.004s
+2026-04-08 22:39:35,935 - INFO - [PREDICTION] label=FAKE | text=oumaima kourchte...
+2026-04-08 22:39:35,935 - INFO - [TIMER] predict \u2192 0.004s
+2026-04-08 22:44:10,856 - INFO - [PREDICTION] label=FAKE | text=morocco Aliens landed in Morocco...
+2026-04-08 22:44:10,856 - INFO - [TIMER] predict \u2192 0.004s
+2026-04-08 22:48:46,238 - INFO - [PREDICTION] label=FAKE | text=L'article  Un article de presse est un texte publié dans un ...
+2026-04-08 22:48:46,240 - INFO - [TIMER] predict \u2192 0.015s
+2026-04-08 22:52:14,983 - INFO - [PREDICTION] label=FAKE | text=Article Contenu rédactionnel, à destination d’une publicatio...
+2026-04-08 22:52:14,983 - INFO - [TIMER] predict \u2192 0.0168s
+2026-04-08 22:53:00,891 - INFO - [PREDICTION] label=FAKE | text=Article de presse En France, l'apparition des premiers artic...
+2026-04-08 22:53:00,891 - INFO - [TIMER] predict \u2192 0.008s
+2026-04-08 22:54:49,544 - INFO - [PREDICTION] label=FAKE | text=Article de presse Pour les articles homonymes, voirArticleet...
+2026-04-08 22:54:49,544 - INFO - [TIMER] predict \u2192 0.0081s
+2026-04-08 23:16:14,043 - INFO - [PREDICTION] label=FAKE | text=No title found This page shares my best articles to read on ...
+2026-04-08 23:16:14,043 - INFO - [TIMER] predict \u2192 0.0156s
+2026-04-08 23:16:34,093 - INFO - [PREDICTION] label=FAKE | text=No title found In English there are three articles:a,an, and...
+2026-04-08 23:16:34,093 - INFO - [TIMER] predict \u2192 0.0s
+2026-04-08 23:17:17,792 - INFO - [PREDICTION] label=FAKE | text=Home Page An official website of the United States governmen...
+2026-04-08 23:17:17,792 - INFO - [TIMER] predict \u2192 0.0s
+2026-04-08 23:17:54,291 - INFO - [PREDICTION] label=FAKE | text=NASA confirms water found on Mars Scientists at NASA announc...
+2026-04-08 23:17:54,291 - INFO - [TIMER] predict \u2192 0.0s
+2026-04-08 23:18:51,475 - INFO - [PREDICTION] label=FAKE | text=NASA confirms water found on Mars Scientists at NASA announc...
+2026-04-08 23:18:51,475 - INFO - [TIMER] predict \u2192 0.0069s
+2026-04-08 23:19:16,325 - INFO - [PREDICTION] label=FAKE | text=SHOCKING: Obama was born in Kenya, documents prove Anonymous...
+2026-04-08 23:19:16,325 - INFO - [TIMER] predict \u2192 0.0109s
+2026-04-08 23:21:11,064 - INFO - [PREDICTION] label=FAKE | text=NASA confirms water found on Mars Scientists at NASA announc...
+2026-04-08 23:21:11,064 - INFO - [TIMER] predict \u2192 0.0s
+2026-04-08 23:26:21,862 - INFO - [PREDICTION] label=FAKE | text=Trump Fan Running For Congress Says He Will For those who th...
+2026-04-08 23:26:21,863 - INFO - [TIMER] predict \u2192 0.005s
+2026-04-14 00:08:50,278 - INFO - [PREDICTION] label=FAKE | text=hhhhh hhhhhhh...
+2026-04-14 00:08:50,296 - INFO - [TIMER] predict \u2192 0.025s
+2026-04-14 00:09:10,783 - INFO - [PREDICTION] label=REAL | text=NASA Live Listings of live programming available on the agen...
+2026-04-14 00:09:10,783 - INFO - [TIMER] predict \u2192 0.005s
+2026-04-14 00:09:54,672 - INFO - [PREDICTION] label=FAKE | text=Les articles en français : règles, emploi et spécificités Ac...
+2026-04-14 00:09:54,672 - INFO - [TIMER] predict \u2192 0.007s
+2026-04-14 00:10:34,749 - INFO - [PREDICTION] label=FAKE | text=TREMP Select market data provided byICE Data Services.Select...
+2026-04-14 00:10:34,750 - INFO - [TIMER] predict \u2192 0.005s
+2026-04-14 00:11:01,346 - INFO - [PREDICTION] label=FAKE | text=No title found Always get there with time to spare. Connect ...
+2026-04-14 00:11:01,346 - INFO - [TIMER] predict \u2192 0.012s
+2026-04-14 00:19:13,356 - INFO - [PREDICTION] label=REAL | text=22 Famous Scientists Who Changed How We View the World (and ...
+2026-04-14 00:19:13,356 - INFO - [TIMER] predict \u2192 0.008s
+2026-04-14 00:19:51,507 - INFO - [PREDICTION] label=FAKE | text=scientist scient-(in Latinscientia"knowledge,science" or ins...
+2026-04-14 00:19:51,508 - INFO - [TIMER] predict \u2192 0.029s
+2026-04-14 00:20:40,023 - INFO - [PREDICTION] label=FAKE | text=CHU Souss Massa d'Agadir Officiel Le Centre Hospitalier Univ...
+2026-04-14 00:20:40,023 - INFO - [TIMER] predict \u2192 0.005s
+2026-04-14 00:20:54,436 - INFO - [PREDICTION] label=REAL | text=World Chagas Disease Day First-ever WHO Forum unites 800+ Co...
+2026-04-14 00:20:54,436 - INFO - [TIMER] predict \u2192 0.004s
+2026-04-15 23:57:36 | INFO     | [STARTUP] Chargement du modèle…
+2026-04-15 23:59:23 | INFO     | [DETECTOR] Modèle chargé depuis 'models/b_model.pkl'
+2026-04-15 23:59:23 | INFO     | [STARTUP] Modèle prêt \u2192 FakeNewsDetector(model='b_model.pkl', vectorizer='vectorizer.pkl')
+2026-04-16 00:00:59 | INFO     | [SHUTDOWN] API arrêtée proprement.
+2026-04-16 00:01:15 | INFO     | [STARTUP] Chargement du modèle…
+2026-04-16 00:01:25 | INFO     | [DETECTOR] Modèle chargé depuis 'models/b_model.pkl'
+2026-04-16 00:01:25 | INFO     | [STARTUP] Modèle prêt \u2192 FakeNewsDetector(model='b_model.pkl', vectorizer='vectorizer.pkl')
+2026-04-16 00:01:25 | INFO     | [HTTP] GET / \u2192 200 (0.0208s)
+2026-04-16 00:01:26 | INFO     | [HTTP] GET / \u2192 200 (0.0019s)
+2026-04-16 00:01:26 | INFO     | [HTTP] GET /favicon.ico \u2192 404 (0.0013s)
+2026-04-16 00:01:26 | INFO     | [HTTP] GET /favicon.ico \u2192 404 (0.0014s)
+2026-04-16 00:01:43 | INFO     | [HTTP] GET / \u2192 200 (0.0015s)
+2026-04-16 00:01:43 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0043s)
+2026-04-16 00:02:14 | INFO     | [HTTP] GET / \u2192 200 (0.0014s)
+2026-04-16 00:02:14 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0018s)
+2026-04-16 00:02:14 | INFO     | [HTTP] GET / \u2192 200 (0.0015s)
+2026-04-16 00:02:15 | INFO     | HTTP Request: GET https://www.bing.com/ck/a?!&&p=6895e44b3a74d9b2110b30a1f823b89711ebffde82923ab582b8959c7752a101JmltdHM9MTc3NjIxMTIwMA&ptn=3&ver=2&hsh=4&fclid=0474f75e-d79b-6ec8-231d-e275d6dd6f45&psq=nasa&u=a1aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTkFTQQ "HTTP/1.1 302 Moved Temporarily"
+2026-04-16 00:02:16 | INFO     | HTTP Request: GET https://en.wikipedia.org/wiki/NASA "HTTP/1.1 200 OK"
+2026-04-16 00:02:20 | INFO     | [SCRAPER] 'https://www.bing.com/ck/a?!&&p=6895e44b3a74d9b2110b30a1f823b' \u2192 160 paragraphes extraits
+2026-04-16 00:02:20 | INFO     | [PREDICTION] label=REAL | text='NASA TheNational Aeronautics and Space Administration(NASA/\u02c8næs\u0259/) is anindepend...'
+2026-04-16 00:02:20 | INFO     | [TIMER] predict \u2192 0.4136s
+2026-04-16 00:02:21 | INFO     | [HTTP] POST /predict-url \u2192 200 (6.3358s)
+2026-04-16 00:02:21 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0027s)
+2026-04-16 00:02:56 | INFO     | [HTTP] GET / \u2192 200 (0.0015s)
+2026-04-16 00:02:56 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0021s)
+2026-04-16 00:02:56 | INFO     | [HTTP] GET / \u2192 200 (0.0016s)
+2026-04-16 00:02:56 | INFO     | HTTP Request: GET https://www.bing.com/ck/a?!&&p=e6f6aabe3c5ca2029fa27346d918c40208c48d1754f656dcbdf0f649790151daJmltdHM9MTc3NjIxMTIwMA&ptn=3&ver=2&hsh=4&fclid=0474f75e-d79b-6ec8-231d-e275d6dd6f45&psq=health&u=a1aHR0cHM6Ly92aXNpdG1hcnJha2VjaC5jb20vZW4vcGxhbm5pbmcvaGVhbHRoLWluLW1hcnJha2VjaC8 "HTTP/1.1 302 Moved Temporarily"
+2026-04-16 00:02:57 | INFO     | HTTP Request: GET https://visitmarrakech.com/en/planning/health-in-marrakech/ "HTTP/1.1 200 OK"
+2026-04-16 00:02:57 | INFO     | [SCRAPER] 'https://www.bing.com/ck/a?!&&p=e6f6aabe3c5ca2029fa27346d918c' \u2192 31 paragraphes extraits
+2026-04-16 00:02:57 | INFO     | [PREDICTION] label=FAKE | text='Health in Marrakech This is the number dedicated to urgent medical assistance, l...'
+2026-04-16 00:02:57 | INFO     | [TIMER] predict \u2192 0.0048s
+2026-04-16 00:02:57 | INFO     | [HTTP] POST /predict-url \u2192 200 (1.2578s)
+2026-04-16 00:02:57 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0018s)
+2026-04-16 00:03:38 | INFO     | [HTTP] GET / \u2192 200 (0.0016s)
+2026-04-16 00:03:39 | INFO     | [HTTP] GET / \u2192 200 (0.0014s)
+2026-04-16 00:03:39 | INFO     | HTTP Request: GET https://www.bing.com/ck/a?!&&p=770708bfd51ff2647037b0e59ee90bb87dea7bb81531fb162e365c3d057533a4JmltdHM9MTc3NjIxMTIwMA&ptn=3&ver=2&hsh=4&fclid=0474f75e-d79b-6ec8-231d-e275d6dd6f45&psq=health&u=a1aHR0cHM6Ly93d3cuY2h1bWFycmFrZWNoLm1hLw "HTTP/1.1 302 Moved Temporarily"
+2026-04-16 00:03:40 | WARNING  | [ASYNC SCRAPER] tentative 1/3 — [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+2026-04-16 00:03:40 | INFO     | HTTP Request: GET https://www.bing.com/ck/a?!&&p=770708bfd51ff2647037b0e59ee90bb87dea7bb81531fb162e365c3d057533a4JmltdHM9MTc3NjIxMTIwMA&ptn=3&ver=2&hsh=4&fclid=0474f75e-d79b-6ec8-231d-e275d6dd6f45&psq=health&u=a1aHR0cHM6Ly93d3cuY2h1bWFycmFrZWNoLm1hLw "HTTP/1.1 302 Moved Temporarily"
+2026-04-16 00:03:40 | WARNING  | [ASYNC SCRAPER] tentative 2/3 — [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+2026-04-16 00:03:40 | INFO     | HTTP Request: GET https://www.bing.com/ck/a?!&&p=770708bfd51ff2647037b0e59ee90bb87dea7bb81531fb162e365c3d057533a4JmltdHM9MTc3NjIxMTIwMA&ptn=3&ver=2&hsh=4&fclid=0474f75e-d79b-6ec8-231d-e275d6dd6f45&psq=health&u=a1aHR0cHM6Ly93d3cuY2h1bWFycmFrZWNoLm1hLw "HTTP/1.1 302 Moved Temporarily"
+2026-04-16 00:03:40 | WARNING  | [ASYNC SCRAPER] tentative 3/3 — [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+2026-04-16 00:03:40 | INFO     | [HTTP] POST /predict-url \u2192 400 (1.1401s)
+2026-04-16 00:03:40 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0022s)
+2026-04-16 00:03:47 | INFO     | [HTTP] GET / \u2192 200 (0.0017s)
+2026-04-16 00:03:48 | INFO     | HTTP Request: GET https://www.bing.com/ck/a?!&&p=770708bfd51ff2647037b0e59ee90bb87dea7bb81531fb162e365c3d057533a4JmltdHM9MTc3NjIxMTIwMA&ptn=3&ver=2&hsh=4&fclid=0474f75e-d79b-6ec8-231d-e275d6dd6f45&psq=health&u=a1aHR0cHM6Ly93d3cuY2h1bWFycmFrZWNoLm1hLw "HTTP/1.1 302 Moved Temporarily"
+2026-04-16 00:03:48 | WARNING  | [ASYNC SCRAPER] tentative 1/3 — [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+2026-04-16 00:03:48 | INFO     | HTTP Request: GET https://www.bing.com/ck/a?!&&p=770708bfd51ff2647037b0e59ee90bb87dea7bb81531fb162e365c3d057533a4JmltdHM9MTc3NjIxMTIwMA&ptn=3&ver=2&hsh=4&fclid=0474f75e-d79b-6ec8-231d-e275d6dd6f45&psq=health&u=a1aHR0cHM6Ly93d3cuY2h1bWFycmFrZWNoLm1hLw "HTTP/1.1 302 Moved Temporarily"
+2026-04-16 00:03:48 | WARNING  | [ASYNC SCRAPER] tentative 2/3 — [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+2026-04-16 00:03:49 | INFO     | HTTP Request: GET https://www.bing.com/ck/a?!&&p=770708bfd51ff2647037b0e59ee90bb87dea7bb81531fb162e365c3d057533a4JmltdHM9MTc3NjIxMTIwMA&ptn=3&ver=2&hsh=4&fclid=0474f75e-d79b-6ec8-231d-e275d6dd6f45&psq=health&u=a1aHR0cHM6Ly93d3cuY2h1bWFycmFrZWNoLm1hLw "HTTP/1.1 302 Moved Temporarily"
+2026-04-16 00:03:49 | WARNING  | [ASYNC SCRAPER] tentative 3/3 — [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+2026-04-16 00:03:49 | INFO     | [HTTP] POST /predict-url \u2192 400 (1.0558s)
+2026-04-16 00:03:49 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0018s)
+2026-04-16 00:03:59 | INFO     | [HTTP] GET / \u2192 200 (0.0023s)
+2026-04-16 00:03:59 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0051s)
+2026-04-16 00:03:59 | INFO     | [HTTP] GET / \u2192 200 (0.0014s)
+2026-04-16 00:04:00 | INFO     | HTTP Request: GET https://www.bing.com/ck/a?!&&p=049bb0ab40f90bb0606cafeeb5a29ef3d85810d5db986a48f6f11f3140e3b5e2JmltdHM9MTc3NjIxMTIwMA&ptn=3&ver=2&hsh=4&fclid=0474f75e-d79b-6ec8-231d-e275d6dd6f45&psq=health&u=a1aHR0cHM6Ly93d3cud2hvLmludC8 "HTTP/1.1 302 Moved Temporarily"
+2026-04-16 00:04:00 | INFO     | HTTP Request: GET https://www.who.int/ "HTTP/1.1 200 OK"
+2026-04-16 00:04:01 | INFO     | [SCRAPER] 'https://www.bing.com/ck/a?!&&p=049bb0ab40f90bb0606cafeeb5a29' \u2192 7 paragraphes extraits
+2026-04-16 00:04:01 | INFO     | [PREDICTION] label=REAL | text='World Chagas Disease Day After three years of conflict, Sudan faces a deeper hea...'
+2026-04-16 00:04:01 | INFO     | [TIMER] predict \u2192 0.0049s
+2026-04-16 00:04:01 | INFO     | [HTTP] POST /predict-url \u2192 200 (1.7838s)
+2026-04-16 00:04:01 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0017s)
+2026-04-16 00:07:05 | INFO     | [SHUTDOWN] API arrêtée proprement.
+2026-04-16 00:07:16 | INFO     | [STARTUP] Chargement du modèle…
+2026-04-16 00:07:23 | INFO     | [DETECTOR] Modèle chargé depuis 'models/b_model.pkl'
+2026-04-16 00:07:23 | INFO     | [STARTUP] Modèle prêt \u2192 FakeNewsDetector(model='b_model.pkl', vectorizer='vectorizer.pkl')
+2026-04-16 00:07:24 | INFO     | [SHUTDOWN] API arrêtée proprement.
+2026-04-16 00:07:34 | INFO     | [STARTUP] Chargement du modèle…
+2026-04-16 00:07:44 | INFO     | [DETECTOR] Modèle chargé depuis 'models/b_model.pkl'
+2026-04-16 00:07:44 | INFO     | [STARTUP] Modèle prêt \u2192 FakeNewsDetector(model='b_model.pkl', vectorizer='vectorizer.pkl')
+2026-04-16 00:07:44 | INFO     | [HTTP] GET / \u2192 200 (0.0308s)
+2026-04-16 00:07:44 | INFO     | [SHUTDOWN] API arrêtée proprement.
+2026-04-16 00:07:56 | INFO     | [STARTUP] Chargement du modèle…
+2026-04-16 00:08:07 | INFO     | [DETECTOR] Modèle chargé depuis 'models/b_model.pkl'
+2026-04-16 00:08:07 | INFO     | [STARTUP] Modèle prêt \u2192 FakeNewsDetector(model='b_model.pkl', vectorizer='vectorizer.pkl')
+2026-04-16 00:08:45 | INFO     | [SHUTDOWN] API arrêtée proprement.
+2026-04-16 00:09:01 | INFO     | [STARTUP] Chargement du modèle…
+2026-04-16 00:09:11 | INFO     | [DETECTOR] Modèle chargé depuis 'models/b_model.pkl'
+2026-04-16 00:09:11 | INFO     | [STARTUP] Modèle prêt \u2192 FakeNewsDetector(model='b_model.pkl', vectorizer='vectorizer.pkl')
+2026-04-16 00:09:12 | INFO     | [HTTP] GET / \u2192 200 (0.0486s)
+2026-04-16 00:09:19 | INFO     | [SHUTDOWN] API arrêtée proprement.
+2026-04-16 00:09:33 | INFO     | [STARTUP] Chargement du modèle…
+2026-04-16 00:09:42 | INFO     | [DETECTOR] Modèle chargé depuis 'models/b_model.pkl'
+2026-04-16 00:09:42 | INFO     | [STARTUP] Modèle prêt \u2192 FakeNewsDetector(model='b_model.pkl', vectorizer='vectorizer.pkl')
+2026-04-16 00:09:54 | INFO     | [SHUTDOWN] API arrêtée proprement.
+2026-04-16 00:10:11 | INFO     | [STARTUP] Chargement du modèle…
+2026-04-16 00:10:18 | INFO     | [DETECTOR] Modèle chargé depuis 'models/b_model.pkl'
+2026-04-16 00:10:18 | INFO     | [STARTUP] Modèle prêt \u2192 FakeNewsDetector(model='b_model.pkl', vectorizer='vectorizer.pkl')
+2026-04-16 00:11:51 | INFO     | [HTTP] GET / \u2192 200 (0.0243s)
+2026-04-16 00:11:52 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0086s)
+2026-04-16 00:12:46 | INFO     | [SHUTDOWN] API arrêtée proprement.
+2026-04-16 00:12:54 | INFO     | [STARTUP] Chargement du modèle…
+2026-04-16 00:13:04 | INFO     | [DETECTOR] Modèle chargé depuis 'models/b_model.pkl'
+2026-04-16 00:13:04 | INFO     | [STARTUP] Modèle prêt \u2192 FakeNewsDetector(model='b_model.pkl', vectorizer='vectorizer.pkl')
+2026-04-16 00:13:17 | INFO     | [SHUTDOWN] API arrêtée proprement.
+2026-04-16 00:13:26 | INFO     | [STARTUP] Chargement du modèle…
+2026-04-16 00:13:34 | INFO     | [DETECTOR] Modèle chargé depuis 'models/b_model.pkl'
+2026-04-16 00:13:34 | INFO     | [STARTUP] Modèle prêt \u2192 FakeNewsDetector(model='b_model.pkl', vectorizer='vectorizer.pkl')
+2026-04-16 00:21:03 | INFO     | [HTTP] GET / \u2192 200 (0.0197s)
+2026-04-16 00:21:03 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0046s)
+2026-04-19 01:05:35 | INFO     | [STARTUP] Chargement du modèle…
+2026-04-19 01:09:16 | INFO     | [STARTUP] Chargement du modèle…
+2026-04-19 01:09:44 | INFO     | [DETECTOR] Modèle chargé depuis 'models/b_model.pkl'
+2026-04-19 01:09:44 | INFO     | [STARTUP] Modèle prêt \u2192 FakeNewsDetector(model='b_model.pkl', vectorizer='vectorizer.pkl')
+2026-04-19 01:09:57 | INFO     | [HTTP] GET / \u2192 200 (0.0278s)
+2026-04-19 01:09:57 | INFO     | [HTTP] GET /favicon.ico \u2192 404 (0.0018s)
+2026-04-19 01:10:01 | INFO     | [HTTP] GET / \u2192 200 (0.0016s)
+2026-04-19 01:10:52 | INFO     | [HTTP] GET / \u2192 200 (0.0024s)
+2026-04-19 01:10:52 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0047s)
+2026-04-19 01:11:38 | INFO     | [HTTP] GET / \u2192 200 (0.0016s)
+2026-04-19 01:11:38 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0029s)
+2026-04-19 01:11:44 | INFO     | [HTTP] GET / \u2192 200 (0.0016s)
+2026-04-19 01:11:44 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0027s)
+2026-04-19 01:11:44 | INFO     | [HTTP] GET / \u2192 200 (0.0015s)
+2026-04-19 01:11:45 | INFO     | [PREDICTION] label=FAKE | text='nasa nasa americain ...'
+2026-04-19 01:11:45 | INFO     | [TIMER] predict \u2192 0.2972s
+2026-04-19 01:11:45 | INFO     | [HTTP] POST /predict \u2192 200 (0.6331s)
+2026-04-19 01:11:45 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0029s)
+2026-04-19 01:12:07 | INFO     | [SHUTDOWN] API arrêtée proprement.
+2026-04-19 01:12:22 | INFO     | [STARTUP] Chargement du modèle…
+2026-04-19 01:12:32 | INFO     | [DETECTOR] Modèle chargé depuis 'models/b_model.pkl'
+2026-04-19 01:12:32 | INFO     | [STARTUP] Modèle prêt \u2192 FakeNewsDetector(model='b_model.pkl', vectorizer='vectorizer.pkl')
+2026-04-19 01:12:32 | INFO     | [SHUTDOWN] API arrêtée proprement.
+2026-04-19 01:12:47 | INFO     | [STARTUP] Chargement du modèle…
+2026-04-19 01:12:56 | INFO     | [DETECTOR] Modèle chargé depuis 'models/b_model.pkl'
+2026-04-19 01:12:56 | INFO     | [STARTUP] Modèle prêt \u2192 FakeNewsDetector(model='b_model.pkl', vectorizer='vectorizer.pkl')
+2026-04-19 01:12:56 | INFO     | [HTTP] GET / \u2192 200 (0.1001s)
+2026-04-19 01:12:56 | INFO     | [HTTP] GET / \u2192 200 (0.1005s)
+2026-04-19 01:14:22 | INFO     | [HTTP] GET / \u2192 200 (0.0015s)
+2026-04-19 01:14:22 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0067s)
+2026-04-19 01:14:23 | INFO     | [SHUTDOWN] API arrêtée proprement.
+2026-04-19 01:14:32 | INFO     | [STARTUP] Chargement du modèle…
+2026-04-19 01:14:45 | INFO     | [DETECTOR] Modèle chargé depuis 'models/b_model.pkl'
+2026-04-19 01:14:45 | INFO     | [STARTUP] Modèle prêt \u2192 FakeNewsDetector(model='b_model.pkl', vectorizer='vectorizer.pkl')
+2026-04-19 01:14:45 | INFO     | [HTTP] GET / \u2192 200 (0.0271s)
+2026-04-19 01:14:45 | INFO     | [HTTP] GET / \u2192 200 (0.0277s)
+2026-04-19 01:15:02 | INFO     | [SHUTDOWN] API arrêtée proprement.
+2026-04-19 01:15:17 | INFO     | [STARTUP] Chargement du modèle…
+2026-04-19 01:15:27 | INFO     | [DETECTOR] Modèle chargé depuis 'models/b_model.pkl'
+2026-04-19 01:15:27 | INFO     | [STARTUP] Modèle prêt \u2192 FakeNewsDetector(model='b_model.pkl', vectorizer='vectorizer.pkl')
+2026-04-19 01:15:52 | INFO     | [SHUTDOWN] API arrêtée proprement.
+2026-04-19 01:16:06 | INFO     | [STARTUP] Chargement du modèle…
+2026-04-19 01:16:16 | INFO     | [DETECTOR] Modèle chargé depuis 'models/b_model.pkl'
+2026-04-19 01:16:16 | INFO     | [STARTUP] Modèle prêt \u2192 FakeNewsDetector(model='b_model.pkl', vectorizer='vectorizer.pkl')
+2026-04-19 01:16:16 | INFO     | [SHUTDOWN] API arrêtée proprement.
+2026-04-19 01:16:27 | INFO     | [STARTUP] Chargement du modèle…
+2026-04-19 01:16:35 | INFO     | [DETECTOR] Modèle chargé depuis 'models/b_model.pkl'
+2026-04-19 01:16:35 | INFO     | [STARTUP] Modèle prêt \u2192 FakeNewsDetector(model='b_model.pkl', vectorizer='vectorizer.pkl')
+2026-04-19 01:16:35 | INFO     | [HTTP] GET / \u2192 200 (0.0219s)
+2026-04-19 01:16:54 | INFO     | [HTTP] GET / \u2192 200 (0.0023s)
+2026-04-19 01:16:54 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0055s)
+2026-04-19 01:17:10 | INFO     | [HTTP] GET / \u2192 200 (0.0021s)
+2026-04-19 01:17:10 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0024s)
+2026-04-19 01:17:16 | INFO     | [HTTP] GET / \u2192 200 (0.0016s)
+2026-04-19 01:17:16 | INFO     | [HTTP] GET / \u2192 200 (0.0015s)
+2026-04-19 01:17:16 | INFO     | [PREDICTION] label=FAKE | text='nasa nasa in america ...'
+2026-04-19 01:17:16 | INFO     | [TIMER] predict \u2192 0.2307s
+2026-04-19 01:17:16 | INFO     | [HTTP] POST /predict \u2192 200 (0.2384s)
+2026-04-19 01:17:17 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0030s)
+2026-04-19 01:17:52 | INFO     | [HTTP] GET / \u2192 200 (0.0021s)
+2026-04-19 01:17:53 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0018s)
+2026-04-19 01:17:55 | INFO     | [HTTP] GET / \u2192 200 (0.0016s)
+2026-04-19 01:17:55 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0017s)
+2026-04-19 01:18:25 | INFO     | [HTTP] GET / \u2192 200 (0.0015s)
+2026-04-19 01:18:25 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0018s)
+2026-04-19 01:18:25 | INFO     | [HTTP] GET / \u2192 200 (0.0016s)
+2026-04-19 01:18:29 | INFO     | HTTP Request: GET https://www.bing.com/ck/a?!&&p=2dd08eab44639c5ff5bd9c1c979dd0eb64349523f786ff9fa115d1e4f09c734fJmltdHM9MTc3NjQ3MDQwMA&ptn=3&ver=2&hsh=4&fclid=0474f75e-d79b-6ec8-231d-e275d6dd6f45&psq=health&u=a1aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSGVhbHRo "HTTP/1.1 302 Moved Temporarily"
+2026-04-19 01:18:30 | INFO     | HTTP Request: GET https://en.wikipedia.org/wiki/Health "HTTP/1.1 200 OK"
+2026-04-19 01:18:31 | INFO     | [SCRAPER] 'https://www.bing.com/ck/a?!&&p=2dd08eab44639c5ff5bd9c1c979dd' \u2192 56 paragraphes extraits
+2026-04-19 01:18:31 | INFO     | [PREDICTION] label=FAKE | text='Health Healthhas a variety of definitions, which have been used for different pu...'
+2026-04-19 01:18:31 | INFO     | [TIMER] predict \u2192 0.0187s
+2026-04-19 01:18:31 | INFO     | [HTTP] POST /predict-url \u2192 200 (6.2228s)
+2026-04-19 01:18:31 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0023s)
+2026-04-19 01:18:51 | INFO     | [HTTP] GET / \u2192 200 (0.0018s)
+2026-04-19 01:18:51 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0026s)
+2026-04-19 01:18:52 | INFO     | [HTTP] GET / \u2192 200 (0.0018s)
+2026-04-19 01:18:52 | INFO     | HTTP Request: GET https://www.bing.com/ck/a?!&&p=ec12d842f30ffbf7f13bbd52e0966a15b8334ab20d0c5b12d64f725351156153JmltdHM9MTc3NjQ3MDQwMA&ptn=3&ver=2&hsh=4&fclid=0474f75e-d79b-6ec8-231d-e275d6dd6f45&psq=health&u=a1aHR0cHM6Ly93d3cuZmluZGhlYWx0aGNsaW5pY3MuY29tL01BL0FnYWRpci8xMDA5MTc3MDk0MTYzMTMvQ0hVLVNvdXNzLU1hc3NhLWQlMjdBZ2FkaXItT2ZmaWNpZWw "HTTP/1.1 302 Moved Temporarily"
+2026-04-19 01:18:53 | INFO     | HTTP Request: GET https://www.findhealthclinics.com/MA/Agadir/100917709416313/CHU-Souss-Massa-d%27Agadir-Officiel "HTTP/1.1 200 OK"
+2026-04-19 01:18:53 | INFO     | [SCRAPER] 'https://www.bing.com/ck/a?!&&p=ec12d842f30ffbf7f13bbd52e0966' \u2192 6 paragraphes extraits
+2026-04-19 01:18:53 | INFO     | [PREDICTION] label=FAKE | text='CHU Souss Massa d'Agadir Officiel Le Centre Hospitalier Universitaire Sous Massa...'
+2026-04-19 01:18:53 | INFO     | [TIMER] predict \u2192 0.0058s
+2026-04-19 01:18:53 | INFO     | [HTTP] POST /predict-url \u2192 200 (1.3975s)
+2026-04-19 01:18:53 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0018s)
+2026-04-19 01:19:16 | INFO     | [HTTP] GET / \u2192 200 (0.0015s)
+2026-04-19 01:19:16 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0034s)
+2026-04-19 01:19:24 | INFO     | [HTTP] GET / \u2192 200 (0.0022s)
+2026-04-19 01:19:25 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0034s)
+2026-04-19 01:19:25 | INFO     | [HTTP] GET / \u2192 200 (0.0021s)
+2026-04-19 01:19:25 | INFO     | [PREDICTION] label=FAKE | text='barak oubamah barak obamah ...'
+2026-04-19 01:19:25 | INFO     | [TIMER] predict \u2192 0.0050s
+2026-04-19 01:19:25 | INFO     | [HTTP] POST /predict \u2192 200 (0.0096s)
+2026-04-19 01:19:25 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0017s)
+2026-04-19 01:19:32 | INFO     | [HTTP] GET / \u2192 200 (0.0023s)
+2026-04-19 01:19:32 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0032s)
+2026-04-19 01:20:00 | INFO     | [HTTP] GET / \u2192 200 (0.0015s)
+2026-04-19 01:20:00 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0019s)
+2026-04-19 01:20:35 | INFO     | [SHUTDOWN] API arrêtée proprement.
+2026-04-19 01:20:42 | INFO     | [STARTUP] Chargement du modèle…
+2026-04-19 01:20:49 | INFO     | [DETECTOR] Modèle chargé depuis 'models/b_model.pkl'
+2026-04-19 01:20:49 | INFO     | [STARTUP] Modèle prêt \u2192 FakeNewsDetector(model='b_model.pkl', vectorizer='vectorizer.pkl')
+2026-04-19 01:22:42 | INFO     | [SHUTDOWN] API arrêtée proprement.
+2026-04-19 01:22:53 | INFO     | [STARTUP] Chargement du modèle…
+2026-04-19 01:23:07 | INFO     | [DETECTOR] Modèle chargé depuis 'models/b_model.pkl'
+2026-04-19 01:23:07 | INFO     | [STARTUP] Modèle prêt \u2192 FakeNewsDetector(model='b_model.pkl', vectorizer='vectorizer.pkl')
+2026-04-19 01:27:09 | INFO     | [SHUTDOWN] API arrêtée proprement.
+2026-04-19 01:27:24 | INFO     | [STARTUP] Chargement du modèle…
+2026-04-19 01:27:31 | INFO     | [DETECTOR] Modèle chargé depuis 'models/b_model.pkl'
+2026-04-19 01:27:31 | INFO     | [STARTUP] Modèle prêt \u2192 FakeNewsDetector(model='b_model.pkl', vectorizer='vectorizer.pkl')
+2026-04-19 01:27:31 | INFO     | [SHUTDOWN] API arrêtée proprement.
+2026-04-19 01:27:36 | INFO     | [STARTUP] Chargement du modèle…
+2026-04-19 01:27:43 | INFO     | [DETECTOR] Modèle chargé depuis 'models/b_model.pkl'
+2026-04-19 01:27:43 | INFO     | [STARTUP] Modèle prêt \u2192 FakeNewsDetector(model='b_model.pkl', vectorizer='vectorizer.pkl')
+2026-04-19 01:29:54 | INFO     | [HTTP] GET / \u2192 200 (0.0221s)
+2026-04-19 01:29:54 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0046s)
+2026-04-19 01:43:26 | INFO     | [SHUTDOWN] API arrêtée proprement.
+INFO:app.main:[STARTUP] Chargement du modèle…
+INFO:detector:[MODEL] loaded version=1.0.0
+INFO:app.main:[STARTUP] Modèle prêt \u2192 <app.FakeNewsDetector.FakeNewsDetector object at 0x000001AEEC94D6F0>
+INFO:app.main:[SHUTDOWN] API arrêtée proprement.
+INFO:detector:[MODEL] loaded version=1.1.0
+INFO:detector:[MODEL] loaded version=1.1.0
+INFO:mlops:{"type": "prediction", "label": "UNKNOWN", "input_preview": "", "timestamp": "2026-04-19T00:44:44.840447"}
+INFO:mlops:{"type": "timer", "function": "predict", "latency": 0.0014, "timestamp": "2026-04-19T00:44:44.840447"}
+INFO:api:POST /predict 0.0390s
+INFO:mlops:{"type": "prediction", "label": "FAKE", "input_preview": "hhhhhhhh", "timestamp": "2026-04-19T00:44:47.834292"}
+INFO:mlops:{"type": "timer", "function": "predict", "latency": 0.0118, "timestamp": "2026-04-19T00:44:47.834292"}
+INFO:api:POST /predict 0.0192s
+INFO:api:GET /metrics 0.0060s
+2026-04-19 01:47:06,750 | INFO | [DETECTOR] loaded model from models/b_model.pkl
+2026-04-19 01:47:17,569 | INFO | [DETECTOR] loaded model from models/b_model.pkl
+2026-04-19 01:48:12 | INFO     | [STARTUP] Chargement du modèle…
+2026-04-19 01:48:24 | INFO     | [DETECTOR] Modèle chargé depuis 'models/b_model.pkl'
+2026-04-19 01:48:24 | INFO     | [STARTUP] Modèle prêt \u2192 FakeNewsDetector(model='b_model.pkl', vectorizer='vectorizer.pkl')
+2026-04-19 01:48:24 | INFO     | [HTTP] GET / \u2192 200 (0.0297s)
+2026-04-19 01:48:24 | INFO     | [HTTP] GET / \u2192 200 (0.0277s)
+2026-04-19 01:48:24 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0042s)
+2026-04-19 02:27:51 | INFO     | [STARTUP] Chargement du modèle…
+2026-04-19 02:27:58 | INFO     | [DETECTOR] Modèle chargé depuis 'models/b_model.pkl'
+2026-04-19 02:27:58 | INFO     | [STARTUP] Modèle prêt \u2192 FakeNewsDetector(model='b_model.pkl', vectorizer='vectorizer.pkl')
+2026-04-19 02:28:23 | INFO     | [STARTUP] Chargement du modèle…
+2026-04-19 02:28:32 | INFO     | [DETECTOR] Modèle chargé depuis 'models/b_model.pkl'
+2026-04-19 02:28:32 | INFO     | [STARTUP] Modèle prêt \u2192 FakeNewsDetector(model='b_model.pkl', vectorizer='vectorizer.pkl')
+2026-04-19 02:28:48 | INFO     | [HTTP] GET / \u2192 200 (0.0558s)
+2026-04-19 02:28:48 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0055s)
+2026-04-19 02:28:58 | INFO     | [HTTP] GET / \u2192 200 (0.0030s)
+2026-04-19 02:28:58 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0018s)
+2026-04-19 02:29:01 | INFO     | [HTTP] GET / \u2192 200 (0.0032s)
+2026-04-19 02:29:01 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0017s)
+2026-04-19 02:29:01 | INFO     | [HTTP] GET / \u2192 200 (0.0015s)
+2026-04-19 02:29:01 | INFO     | [PREDICTION] label=FAKE | text='nasa hhhhhhhhhhhhhh...'
+2026-04-19 02:29:01 | INFO     | [TIMER] predict \u2192 0.0071s
+2026-04-19 02:29:01 | INFO     | [HTTP] POST /predict \u2192 200 (0.0158s)
+2026-04-19 02:29:01 | INFO     | [HTTP] GET /metrics \u2192 200 (0.0025s)
