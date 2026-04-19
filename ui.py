@@ -1,3 +1,14 @@
+"""
+dashboard.py
+============
+Interface utilisateur Streamlit pour le Fake News Detector.
+
+Rôle dans le projet :
+- Client HTTP de l'API FastAPI (utilise requests)
+- Affiche les résultats avec un design soigné
+- Onglet métriques pour observer les stats MLOps en temps réel
+"""
+
 import requests
 import streamlit as st
 
@@ -26,7 +37,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.title("Fake News Detector")
-st.markdown("Détectez si un article est **RÉEL** ou **FAUX** ")
+st.markdown("Détectez si un article est RÉEL ou FAUX grâce à l'intelligence artificielle.")
 st.divider()
 
 try:
@@ -47,15 +58,14 @@ tab1, tab2, tab3 = st.tabs(["Texte", "URL", "Métriques MLOps"])
 with tab1:
     st.subheader("Analyser un article par son contenu")
 
-    title = st.text_input("Titre de l'article", placeholder="Ex : Scientists discover new planet…")
-    text  = st.text_area("Corps de l'article", height=200,
-                         placeholder="Collez ici le texte complet de l'article…")
+    title = st.text_input("Titre de l'article")
+    text = st.text_area("Corps de l'article", height=200)
 
     if st.button("Analyser", key="btn_text", use_container_width=True):
         if not title or not text:
             st.warning("Veuillez remplir le titre et le texte.")
         else:
-            with st.spinner("Analyse en cours…"):
+            with st.spinner("Analyse en cours"):
                 try:
                     res = requests.post(
                         f"{API_URL}/predict",
@@ -69,7 +79,7 @@ with tab1:
                     css_class = "real" if label == "REAL" else "fake"
 
                     st.markdown(
-                        f'<div class="result-box {css_class}"> Verdict : {label}</div>',
+                        f'<div class="result-box {css_class}">Verdict : {label}</div>',
                         unsafe_allow_html=True,
                     )
 
@@ -87,15 +97,14 @@ with tab1:
 
 with tab2:
     st.subheader("Analyser un article depuis son URL")
-    st.info("L'API va scraper automatiquement le contenu de la page.")
 
-    url = st.text_input("URL de l'article", placeholder="https://www.bbc.com/news/…")
+    url = st.text_input("URL de l'article")
 
     if st.button("Scraper & Analyser", key="btn_url", use_container_width=True):
         if not url:
             st.warning("Veuillez entrer une URL.")
         else:
-            with st.spinner("Scraping en cours…"):
+            with st.spinner("Scraping en cours"):
                 try:
                     res = requests.post(
                         f"{API_URL}/predict-url",
@@ -109,28 +118,24 @@ with tab2:
                     css_class = "real" if label == "REAL" else "fake"
 
                     st.markdown(
-                        f'<div class="result-box {css_class}"> Verdict : {label}</div>',
+                        f'<div class="result-box {css_class}">Verdict : {label}</div>',
                         unsafe_allow_html=True,
                     )
 
-                    st.markdown(f"**Titre détecté :** {result.get('scraped_title')}")
-                    st.markdown(f"**Source :** {result.get('source_url')}")
-
-                    conf = result.get("confidence")
-                    st.metric("Confiance du modèle", f"{conf:.1%}" if conf else "N/A")
+                    st.markdown(f"Titre détecté : {result.get('scraped_title')}")
+                    st.markdown(f"Source : {result.get('source_url')}")
 
                 except requests.HTTPError as e:
-                    detail = e.response.json().get("detail", str(e))
-                    st.error(f"Erreur : {detail}")
-                except Exception as e:
-                    st.error(f"Erreur inattendue : {e}")
+                    try:
+                        detail = e.response.json().get("detail", str(e))
+                    except Exception:
+                        detail = str(e)
+                    st.warning(f"{detail}")
+                except Exception:
+                    st.warning("Une erreur est survenue. Vérifiez l'URL et votre connexion internet.")
 
 with tab3:
     st.subheader("Tableau de bord MLOps")
-    st.caption("Métriques opérationnelles exposées par l'API `/metrics`")
-
-    if st.button("Rafraîchir", key="btn_metrics"):
-        pass 
 
     try:
         res = requests.get(f"{API_URL}/metrics", timeout=5)
@@ -138,13 +143,12 @@ with tab3:
 
         col1, col2, col3 = st.columns(3)
         col1.metric("Prédictions totales", m.get("total_predictions", 0))
-        col2.metric("Erreurs",             m.get("total_errors", 0))
-        col3.metric("Taux d'erreur",       f"{m.get('error_rate', 0):.1%}")
+        col2.metric("Erreurs", m.get("total_errors", 0))
+        col3.metric("Taux d'erreur", f"{m.get('error_rate', 0):.1%}")
 
-        st.markdown(f"**Uptime** : `{m.get('uptime_seconds', 0)}s`")
-        st.markdown(f"**Modèle** : `{m.get('model', 'N/A')}`")
-        st.markdown(f"**Statut** : `{m.get('status', 'unknown')}`")
+        st.markdown(f"Uptime : {m.get('uptime_seconds', 0)}s")
+        st.markdown(f"Modèle : {m.get('model', 'N/A')}")
+        st.markdown(f"Statut : {m.get('status', 'unknown')}")
 
     except Exception as e:
         st.error(f"Impossible de récupérer les métriques : {e}")
-
